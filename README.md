@@ -2,20 +2,15 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Joy+Shaheb+%F0%9F%91%8B;Senior+Frontend+Developer+%F0%9F%9A%80;Building+Beautiful+Web+Experiences+%E2%9C%A8" alt="Typing SVG" />
 </div>
 
-<p align="center">
-  <a href="https://github.com/joyshaheb">
-    <img src="https://img.shields.io/badge/GitHub-@joyshaheb-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/joyshaheb/">
-    <img src="https://img.shields.io/badge/LinkedIn-Joy_Shaheb-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://www.youtube.com/c/joyshaheb">
-    <img src="https://img.shields.io/badge/YouTube-Joy_Shaheb-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
-  </a>
-  <a href="mailto:khondokoralam@gmail.com">
-    <img src="https://img.shields.io/badge/Email-khondokoralam@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-</p>
+<div align="center">
+  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/joyshaheb)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joyshaheb/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/c/joyshaheb)
+[![Website](https://img.shields.io/badge/Website-A855F7?style=flat&logo=google-chrome&logoColor=white)](https://joy.poshpixel.studio/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:khondokoralam@gmail.com)
+
+</div>
 
 <br>
 
@@ -36,34 +31,27 @@ const joyshaheb = {
 
 ## 🚀 Tech Stack
 
-### 💻 Languages & Frameworks
+<div align="center">
+
+### Languages & Frameworks
+
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,html,css" alt="Languages & Frameworks" />
 </p>
 
-### 🎨 Styling & UI
+### Styling & Design
+
 <p>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass">
-  <img src="https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled Components">
-  <img src="https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="Material UI">
+  <img src="https://skillicons.dev/icons?i=tailwind,sass,styledcomponents,materialui" alt="Styling & Design" />
 </p>
 
-### 🛠️ Tools & Technologies
+### Tools & Technologies
+
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
-  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm">
-  <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black" alt="Webpack">
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite">
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
+  <img src="https://skillicons.dev/icons?i=git,vscode,npm,webpack,vite,vercel" alt="Tools & Technologies" />
 </p>
+
+</div>
 
 <br>
 
@@ -118,7 +106,7 @@ const joyshaheb = {
 
 <br>
 
-## 🌐 Let's Connect!
+## 🌐 Let's Connect
 
 <p align="center">
   I'm always excited to collaborate on interesting projects or just have a chat about tech!<br>
@@ -131,6 +119,6 @@ const joyshaheb = {
 
 <div align="center">
   
-  ### ⭐️ From [joyshaheb](https://github.com/joyshaheb) with 💜
+### ⭐️ From [joyshaheb](https://github.com/joyshaheb) with 💜
   
 </div>
