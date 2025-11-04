@@ -2,16 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Joy+Shaheb+%F0%9F%91%8B;Senior+Frontend+Developer+%F0%9F%9A%80;Building+Beautiful+Web+Experiences+%E2%9C%A8" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/joyshaheb)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joyshaheb/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/c/joyshaheb)
-[![Website](https://img.shields.io/badge/Website-A855F7?style=flat&logo=google-chrome&logoColor=white)](https://joy.poshpixel.studio/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:khondokoralam@gmail.com)
-
-</div>
-
 <br>
 
 ## 👨‍💻 About Me
@@ -110,8 +100,20 @@ const joyshaheb = {
 
 <p align="center">
   I'm always excited to collaborate on interesting projects or just have a chat about tech!<br>
-  Feel free to reach out through any of the channels above. 🚀
+  Feel free to reach out through any of the channels below. 🚀
 </p>
+
+<div align="center">
+  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/joyshaheb)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joyshaheb/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/c/joyshaheb)
+[![Website](https://img.shields.io/badge/Website-A855F7?style=flat&logo=google-chrome&logoColor=white)](https://joy.poshpixel.studio/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:khondokoralam@gmail.com)
+
+</div>
+
+<br>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=joyshaheb&label=Profile%20Views&color=A855F7&style=for-the-badge" alt="Profile Views" />
